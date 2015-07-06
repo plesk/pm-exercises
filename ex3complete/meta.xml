@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<module>
+  <id>panel-stats</id>
+  <name>Panel Statistics</name>
+  <description>Provide statistics for external systems in plain, XML or JSON format.</description>
+  <version>1.2</version>
+  <release>1</release>
+  <icon/>
+  <vendor>Parallels</vendor>
+  <url>http://parallels.com</url>
+  <plesk_min_version>11.0.1</plesk_min_version>
+</module>
