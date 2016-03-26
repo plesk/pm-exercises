@@ -5,7 +5,6 @@
   <description>Latest news about Plesk (provided by official RSS feed).</description>
   <version>1.0</version>
   <release>1</release>
-  <icon/>
   <vendor>Plesk</vendor>
   <url>https://github.com/plesk/ext-panel-news</url>
   <plesk_min_version>11.0.1</plesk_min_version>
