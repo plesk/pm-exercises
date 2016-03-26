@@ -6,7 +6,7 @@
   <version>1.2</version>
   <release>1</release>
   <icon/>
-  <vendor>Parallels</vendor>
-  <url>http://parallels.com</url>
+  <vendor>Plesk</vendor>
+  <url>https://github.com/plesk/ext-panel-stats</url>
   <plesk_min_version>11.0.1</plesk_min_version>
 </module>

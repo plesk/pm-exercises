@@ -5,7 +5,7 @@ class Modules_PanelNews_Promo_Home extends pm_Promo_Home
 
     public function getTitle()
     {
-        return 'Parallels Plesk Panel News';
+        return 'Plesk News';
     }
 
     public function getText()

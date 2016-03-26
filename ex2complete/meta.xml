@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <module>
   <id>panel-news</id>
-  <name>Parallels Plesk Panel News</name>
-  <description>Latest news about Parallels Plesk Panel (provided by official RSS feed).</description>
+  <name>Plesk News</name>
+  <description>Latest news about Plesk (provided by official RSS feed).</description>
   <version>1.0</version>
   <release>1</release>
   <icon/>
-  <vendor>Parallels</vendor>
-  <url>http://www.parallels.com/products/plesk/</url>
+  <vendor>Plesk</vendor>
+  <url>https://github.com/plesk/ext-panel-news</url>
   <plesk_min_version>11.0.1</plesk_min_version>
 </module>
